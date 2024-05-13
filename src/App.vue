@@ -3036,7 +3036,7 @@ h5 {
     font-size: 16px;
   }
   .micro_drip_calculator {
-    font-size: 40px;
+    font-size: 34px;
   }
 }
 
