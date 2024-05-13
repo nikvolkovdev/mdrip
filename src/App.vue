@@ -3035,6 +3035,9 @@ h5 {
   .consumption3 {
     font-size: 16px;
   }
+  .micro_drip_calculator {
+    font-size: 40px;
+  }
 }
 
 @media screen and (max-width: 397px) {
